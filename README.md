@@ -99,7 +99,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 **[gain-path.vercel.app]**
+👉 gain-path.vercel.app
 
 ---
 
