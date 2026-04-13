@@ -99,13 +99,13 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 **[gainpath.vercel.app](<!-- ADD YOUR VERCEL LINK HERE -->)**
+👉 **[gainpath.vercel.app](gain-path.vercel.app)**
 
 ---
 
 ## 📬 Contact
 
-**Flifel** — [LinkedIn](<!-- ADD YOUR LINKEDIN HERE -->) · [GitHub](<!-- ADD YOUR GITHUB HERE -->)
+**Mohamed FLIFEL** — [LinkedIn](https://www.linkedin.com/in/mohamed-flifel-8a0a213a7/) · [GitHub](https://github.com/mohamedflifel)
 
 ---
 
