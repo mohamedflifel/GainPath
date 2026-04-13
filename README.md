@@ -8,7 +8,7 @@
 
 ![GainPath Banner](https://i.ibb.co/9H4pPW27/logo.png)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](<!-- ADD YOUR VERCEL LINK HERE -->)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://gain-path.vercel.app/)
 [![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 
 </div>
