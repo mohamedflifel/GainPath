@@ -86,7 +86,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 APP_URL=http://localhost:5173
 ```
 
-> Get your free API key at [aistudio.google.com](https://aistudio.google.com) or groq par eg
+
 
 4. **Run the app**
 ```bash
@@ -99,7 +99,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 **[gainpath.vercel.app](gain-path.vercel.app)**
+👉 **[gain-path.vercel.app]**
 
 ---
 
