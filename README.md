@@ -6,10 +6,9 @@
 
 *Enter your goals. Get your program. Start training.*
 
-![GainPath Banner](<!-- ADD YOUR BANNER IMAGE HERE -->)
+![GainPath Banner](https://i.ibb.co/9H4pPW27/logo.png)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](<!-- ADD YOUR VERCEL LINK HERE -->)
-[![Made with Gemini](https://img.shields.io/badge/Powered%20by-Gemini%20AI-blue?style=for-the-badge&logo=google)](https://aistudio.google.com)
 [![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 
 </div>
@@ -18,9 +17,13 @@
 
 ## 🚀 About The Project
 
-**GainPath** is an AI-powered web application that generates fully personalized fitness training programs in seconds. Simply describe your fitness level, goals, and available equipment — and GainPath builds a complete week-by-week workout plan tailored just for you.
+As a sports enthusiast, I always wanted a personal coach that
+understood my exact goals and schedule. Instead of paying for one,
+I built one.
 
-No generic programs. No guesswork. Just smart, adaptive coaching powered by **Google Gemini AI**.
+GainPath uses Google Gemini API to generate fully personalized
+workout programs in seconds — no generic plans, just smart
+coaching tailored to you.
 
 ---
 
@@ -28,12 +31,14 @@ No generic programs. No guesswork. Just smart, adaptive coaching powered by **Go
 
 > *Homepage*
 
-![Homepage Screenshot](<!-- ADD SCREENSHOT HERE -->)
+![Homepage Screenshot](https://i.ibb.co/1GVdNTfw/Screenshot-2026-04-13-214311.png)
 
 > *Program Result*
 
-![Program Screenshot](<!-- ADD SCREENSHOT HERE -->)
-
+![Program Screenshot eg1](https://i.ibb.co/jvXrS1Xn/Screenshot-2026-04-13-214801.png)
+![Program Screenshot eg2](https://i.ibb.co/bg2Yykhc/Screenshot-2026-04-13-214854.png)
+![Program Screenshot eg3](https://i.ibb.co/sfvFnYq/Screenshot-2026-04-13-215007.png)
+![Program Screenshot eg4](https://i.ibb.co/j9ZGq0zk/Screenshot-2026-04-13-215311.png)
 ---
 
 ## ✨ Features
@@ -81,7 +86,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 APP_URL=http://localhost:5173
 ```
 
-> Get your free API key at [aistudio.google.com](https://aistudio.google.com)
+> Get your free API key at [aistudio.google.com](https://aistudio.google.com) or groq par eg
 
 4. **Run the app**
 ```bash
